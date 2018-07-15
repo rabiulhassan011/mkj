@@ -1,0 +1,35 @@
+header {
+    min-height: 100px;
+    background: white !important;
+}
+
+.head_logo {
+    padding: 10px 0;
+}
+
+.custom_nav {
+    border: 2px solid black;
+    border-top-color: #23A2DC;
+    border-bottom-color: orangered;
+    border-left-color: #4D4D4D;
+    border-right-color: #002761;
+    border-radius: 5px;
+}
+
+.custom_nav ul li a {
+    color: black!important;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 25px 0;
+}
+
+.custom_nav ul li a:hover {
+    color: red !important;
+}
+
+.friends{
+    min-height: 400px;
+    background-image: url(../images/19875124_517033781975639_4577576544349851503_n.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
